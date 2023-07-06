@@ -36,10 +36,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 #### How it looks
 
-```
+
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+
 
 ### :keyboard: Activity: Adding a code example
 
